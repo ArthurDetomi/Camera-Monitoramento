@@ -1,6 +1,12 @@
 # Documentação
 # Trabalho Grafo Ufsj
 
+## Dependências
+Programa foi desenvolvido utilizando java 11, não testado com outras versões.
+
+Link da JDK utilizada para desenvolvimento, apesar de necessitar apenas da JRE.
+
+[Java-11-Download](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 ## Como rodar o programa:
 A duas formas de executar o programa:
 
