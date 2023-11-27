@@ -38,7 +38,7 @@ make
 
 E apos isso rodar o comando:
 ```bash
-make rodar_programa_preparado
+make rodar_programa_pos_compilacao
 ```
 
 ### Resposta esperada (versão resumida):
