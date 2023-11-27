@@ -19,18 +19,21 @@ Arquivo de entrada [sjdr.gml](src/main/java/input/sjdr.gml)
 
 Já deixei um Makefile configurado e um *".jar"* pronto para execução basta rodar o programa com:
 ```bash
-make rodar_programa
+make rodar_programa_preparado
 ```
 *Comando 1*
 
 Ou se caso você queira compilar o pacote você mesmo basta rodar o seguinte comando:
 
-```
+```bash
 make
 ```
 *Comando 2*
 
-E apos isso rodar o *Comando 1* novamente.
+E apos isso rodar o comando:
+```bash
+make rodar_programa_preparado
+```
 
 ### Resposta esperada (versão resumida):
 ```bash
